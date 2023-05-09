@@ -26,6 +26,7 @@ The following are the features that are going to be implemented,
         Signal 4 ---> Screen Share.
     ```
 )
+
 7. Message templates building for professional use.
 8. Features like Speech-to-text and Text-to-Speech.
 9. A Home Page which has feed of Contents, Images, videos and shorts.
